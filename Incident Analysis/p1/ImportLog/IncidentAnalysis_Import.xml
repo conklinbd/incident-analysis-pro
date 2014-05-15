@@ -1,0 +1,112 @@
+<ImportMXDLog>	<Messages>
+		<FileName>C:\Users\ben4389\Box Sync\Incident Analysis\Original Template\Incident Analysis\IncidentAnalysis.mxd</FileName>
+		<Message>
+			<Name></Name>
+			<MessageType>Warning</MessageType>
+			<Severity>High</Severity>
+			<Description>Data Frame uses the Maplex Label Engine</Description>
+			<Code>10038</Code>
+			<ComponentName></ComponentName>
+			<ComponentType></ComponentType>
+</Message>
+		<Message>
+			<Name></Name>
+			<MessageType>Warning</MessageType>
+			<Severity>Medium</Severity>
+			<Description>Layer uses a text symbol which draws with faux bold or italic styles</Description>
+			<Code>20008</Code>
+			<ComponentName>ClusterAnalysis</ComponentName>
+			<ComponentType>Layer</ComponentType>
+</Message>
+		<Message>
+			<Name></Name>
+			<MessageType>Warning</MessageType>
+			<Severity>Medium</Severity>
+			<Description>Layer uses symbol level drawing with a character marker symbol</Description>
+			<Code>10018</Code>
+			<ComponentName>IncidentHotSpots</ComponentName>
+			<ComponentType>Layer</ComponentType>
+</Message>
+		<Message>
+			<Name></Name>
+			<MessageType>Warning</MessageType>
+			<Severity>Medium</Severity>
+			<Description>Layer uses symbol level drawing with a character marker symbol</Description>
+			<Code>10018</Code>
+			<ComponentName>IncidentHotSpots</ComponentName>
+			<ComponentType>Layer</ComponentType>
+</Message>
+		<Message>
+			<Name></Name>
+			<MessageType>Warning</MessageType>
+			<Severity>Medium</Severity>
+			<Description>Layer uses symbol level drawing with a character marker symbol</Description>
+			<Code>10018</Code>
+			<ComponentName>IncidentHotSpots</ComponentName>
+			<ComponentType>Layer</ComponentType>
+</Message>
+		<Message>
+			<Name></Name>
+			<MessageType>Warning</MessageType>
+			<Severity>Medium</Severity>
+			<Description>Layer uses symbol level drawing with a character marker symbol</Description>
+			<Code>10018</Code>
+			<ComponentName>IncidentHotSpots</ComponentName>
+			<ComponentType>Layer</ComponentType>
+</Message>
+		<Message>
+			<Name></Name>
+			<MessageType>Warning</MessageType>
+			<Severity>Medium</Severity>
+			<Description>Layer uses symbol level drawing with a character marker symbol</Description>
+			<Code>10018</Code>
+			<ComponentName>IncidentHotSpots</ComponentName>
+			<ComponentType>Layer</ComponentType>
+</Message>
+		<Message>
+			<Name></Name>
+			<MessageType>Warning</MessageType>
+			<Severity>Medium</Severity>
+			<Description>Layer uses symbol level drawing with a character marker symbol</Description>
+			<Code>10018</Code>
+			<ComponentName>IncidentHotSpots</ComponentName>
+			<ComponentType>Layer</ComponentType>
+</Message>
+		<Message>
+			<Name></Name>
+			<MessageType>Warning</MessageType>
+			<Severity>Medium</Severity>
+			<Description>Layer uses symbol level drawing with a character marker symbol</Description>
+			<Code>10018</Code>
+			<ComponentName>IncidentHotSpots</ComponentName>
+			<ComponentType>Layer</ComponentType>
+</Message>
+		<Message>
+			<Name></Name>
+			<MessageType>Warning</MessageType>
+			<Severity>High</Severity>
+			<Description>Basemap Layers cannot be published directly to a service</Description>
+			<Code>37</Code>
+			<ComponentName>Basemap</ComponentName>
+			<ComponentType>Layer</ComponentType>
+</Message>
+		<Message>
+			<Name></Name>
+			<MessageType>Error</MessageType>
+			<Severity>High</Severity>
+			<Description>Layer&apos;s data source is inaccessible</Description>
+			<Code>3</Code>
+			<ComponentName>Basemaps/TopographicMap</ComponentName>
+			<ComponentType>Layer</ComponentType>
+</Message>
+		<Message>
+			<Name></Name>
+			<MessageType>Error</MessageType>
+			<Severity>High</Severity>
+			<Description>Standalone table&apos;s data source is inaccessible</Description>
+			<Code>32</Code>
+			<ComponentName>Incidents$</ComponentName>
+			<ComponentType>esriDTAny</ComponentType>
+</Message>
+</Messages>
+</ImportMXDLog>
